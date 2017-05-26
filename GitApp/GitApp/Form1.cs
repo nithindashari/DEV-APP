@@ -15,6 +15,7 @@ namespace GitApp
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("HAI FIRST CHANGE");
         }
     }
 }
